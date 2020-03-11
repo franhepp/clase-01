@@ -6,8 +6,8 @@ function setup() {
 }
 
 function draw() {
-  colorMode(HSB, 152, 31, 65)
-  //background(300,300,300);
+  colorMode(HSB, 280, 90, 10)
+  //background(0,100,100);
   fill(random(0,40),100,100);
   noStroke();
   c=a * random(1,5)
