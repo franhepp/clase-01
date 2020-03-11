@@ -6,7 +6,7 @@ function setup() {
 }
 
 function draw() {
-  colorMode(HSB, 80, 100, 100)
+  colorMode(HSB, 100, 200, 80)
   //background(0,100,100);
   fill(random(0,40),100,100);
   noStroke();
